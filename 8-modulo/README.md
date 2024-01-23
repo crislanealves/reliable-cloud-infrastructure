@@ -8,8 +8,7 @@ Neste módulo, falaremos sobre segurança. O Google tem operado segurança na nu
 
 - Aplicar a realização de auditorias regulares que é uma parte fundamental da execução de sistemas de segurança.
 
-- Aproveitar o Centro de Comando de Segurança do Google para, por exemplo, ajudar a identificar vulnerabilidades 
-    parte de seu processo.
+- Aproveitar o Centro de Comando de Segurança do Google para, por exemplo, ajudar a identificar vulnerabilidades parte de seu processo.
 
 - Como as políticas e pastas da organização podem simplificar a governança.
 
